@@ -1,3 +1,3 @@
 # MLAssignment3
 
-U G L Y 
+Every section of this assignment is afforded its own .py file
